@@ -37,7 +37,7 @@ Hier sind einige Projekte, die meine Fähigkeiten demonstrieren. Mehr finden Sie
 
 | Projekt | Beschreibung | Technologien | Link |
 | :--- | :--- | :--- | :--- |
-| **Trail-Scout-Expedition** | Wanderer Gadegt für lange wanderungen für feedback und Tracking. | `Python`, `C`, `lora`| [GitHub-Repo](https://github.com/[MCOP-ux]/[Trail-Scout-Expedition]) |
+| **Trail-Scout-Expedition** | Wanderer Gadegt für lange wanderungen für feedback und Tracking. | `Python`, `C`, `lora`| [GitHub-Repo](https://github.com/MCOP-ux/[Trail-Scout-Expedition]) |
 
 
 ---
@@ -47,6 +47,6 @@ Hier sind einige Projekte, die meine Fähigkeiten demonstrieren. Mehr finden Sie
 Hier sehen Sie eine Übersicht meiner Aktivitäten und meistgenutzten Sprachen auf GitHub.
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[MCOP-ux]&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[MCOP-ux]&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MCOP-ux&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MCOP-ux&layout=compact&langs_count=8&theme=tokyonight"/>
 </p>
