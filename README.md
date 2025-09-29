@@ -22,7 +22,7 @@ Hier sind die Technologien, mit denen ich hauptsächlich arbeite:
     <strong>Google Apps Script</strong>
 </p>
 
-**Weitere Tools & Technologien (Beispiele - passe sie an!):**
+**Weitere Tools & Technologien:**
 * **Frontend:** HTML, CSS, React.js
 * **Backend:** Node.js, Python
 * **Datenbanken:** MySQL, PostgreSQL
