@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="banner.png" alt="MCOP-ux Banner" />
-</p>
+
 # 👋 Hallo, ich bin **MCOP-ux**  
 [![Deutsch](https://img.shields.io/badge/Sprache-Deutsch-blue?logo=github)](#) [![English](https://img.shields.io/badge/Language-English-red?logo=github)](README_en.md)  
 
