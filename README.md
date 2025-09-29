@@ -44,9 +44,8 @@ Hier sind einige Projekte, die meine Fähigkeiten demonstrieren. Mehr finden Sie
 
 | Projekt | Beschreibung | Technologien | Link |
 | :--- | :--- | :--- | :--- |
-| **Projektname 1** | Eine kurze, prägnante Beschreibung, was dieses Projekt tut und welches Problem es löst. | `Python`, `Flask`, `PostgreSQL` | [GitHub-Repo](https://github.com/[DEIN-GITHUB-BENUTZERNAME]/[REPO-NAME]) |
-| **Projektname 2** | Beschreibung für ein Automatisierungs-Tool, das z.B. Daten zwischen Google Sheets und einer externen API synchronisiert. | `Google Apps Script`, `REST API` | [GitHub-Repo](https://github.com/[DEIN-GITHUB-BENUTZERNAME]/[REPO-NAME]) |
-| **Projektname 3** | Beschreibung für eine Webanwendung oder ein C++-Projekt. | `JavaScript`, `React`, `Node.js` | [GitHub-Repo](https://github.com/[DEIN-GITHUB-BENUTZERNAME]/[REPO-NAME]) |
+| **Trail-Scout-Expedition** | Wanderer Gadegt für lange wanderungen für feedback und Tracking. | `Python`, `C`, `lora`| [GitHub-Repo](https://github.com/[MCOP-ux]/[Trail-Scout-Expedition]) |
+
 
 ---
 
@@ -55,17 +54,6 @@ Hier sind einige Projekte, die meine Fähigkeiten demonstrieren. Mehr finden Sie
 Hier sehen Sie eine Übersicht meiner Aktivitäten und meistgenutzten Sprachen auf GitHub.
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[DEIN-GITHUB-BENUTZERNAME]&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[DEIN-GITHUB-BENUTZERNAME]&layout=compact&langs_count=8&theme=tokyonight"/>
-</p>
-
----
-
-### 📫 Kontakt & Weitere Profile
-
-Lassen Sie uns in Kontakt treten! Ich bin immer offen für neue Möglichkeiten und interessante Projekte.
-
-<p align="left">
-<a href="https://linkedin.com/in/[DEIN-LINKEDIN-PROFILNAME]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dein-linkedin-profil" height="30" width="40" /></a>
-<a href="https://[DEINE-PERSÖNLICHE-WEBSEITE.com]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="deine-webseite" height="30" width="40" /></a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[MCOP-ux]&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[MCOP-ux]&layout=compact&langs_count=8&theme=tokyonight"/>
 </p>
