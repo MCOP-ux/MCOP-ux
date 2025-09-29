@@ -23,11 +23,11 @@ Hier sind die Technologien, mit denen ich hauptsächlich arbeite:
 </p>
 
 **Weitere Tools & Technologien (Beispiele - passe sie an!):**
-* **Frontend:** HTML5, CSS3, React.js
-* **Backend:** Node.js, Flask, Django
-* **Datenbanken:** MySQL, PostgreSQL, MongoDB
-* **Tools:** Git, Docker, Postman
-* **Cloud:** Google Cloud Platform (GCP), AWS
+* **Frontend:** HTML, CSS, React.js
+* **Backend:** Node.js, Python
+* **Datenbanken:** MySQL, PostgreSQL
+* **Tools:** Git
+
 
 ---
 
