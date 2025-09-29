@@ -1,18 +1,11 @@
-# Hallo 👋, ich bin [Dein Name]
+# Hallo 👋, ich bin MCOP-ux
 
-Ein leidenschaftlicher und ergebnisorientierter Softwareentwickler aus [Deine Stadt/Region, z.B. Radebeul, Sachsen]. Mein Fokus liegt auf der Entwicklung effizienter, skalierbarer und wartbarer Softwarelösungen.
+Mein Fokus liegt auf der Entwicklung effizienter, skalierbarer und wartbarer Softwarelösungen.
 
-![Software Developer Banner](https://example.com/banner.png) ---
 
 ### 👨‍💻 Über Mich
 
 Ich bin ein Softwareentwickler mit einer starken Leidenschaft für sauberen Code und Problemlösungen. Meine Expertise erstreckt sich von der Backend-Entwicklung mit Python und C/C++ über die Erstellung dynamischer Webanwendungen mit JavaScript bis hin zur Automatisierung von Geschäftsprozessen mit Google Apps Script.
-
-* 🔭 Ich arbeite gerade an [Name eines persönlichen Projekts oder einer Technologie, die du lernst].
-* 🌱 Ich lerne aktuell [z.B. eine neue Bibliothek, ein Framework oder eine neue Sprache].
-* 💬 Fragen Sie mich gerne nach meinen Projekten in Python und JavaScript.
-* 📫 So erreichen Sie mich: [Deine E-Mail-Adresse]
-* 📄 Mein Lebenslauf: [Link zu deinem PDF-Lebenslauf, z.B. auf Google Drive oder deiner Webseite]
 
 ---
 
